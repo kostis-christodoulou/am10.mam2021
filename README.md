@@ -25,6 +25,7 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 | 4     |Ishitaa Jindal, Stelios Tzavellos , Michael Gritzbach, Oriana Wei, Jiakuo Li, Maddy Goodman| maddy-g6 |https://github.com/maddy-g6/group4-am10-final-proj|<N/A>     |13/11/2020 |
 | 5     |Etra Bianco, Christian Gonder, Vasu Dev Puri, Mengze Sun, Himanshu Singh|Hectopascal |<https://github.com/Hectopascal/AM10-Final-Project>|<N/A>     |2020-11-18 |
 | 6     |Aganieszka Prawda, Derek Leung , Malay Memani, Magdalena Cloppenburg, Samy Mohamad, Yichun Hou| Yichun-Hou |https://github.com/Yichun-Hou/AM10_Group6|<N/A>     |14/11/2020 |
+| 7    |Hugo-Paul Damestoy, Mehek Khanna, Renata Mariani Zanella, Jan Molich, Jinyi Wu, Tianchi Wu|renatamarianiz |<https://github.com/renatamarianiz/am10_group7>|<N/A>     |2020-11-12 |
 | 8     | Josephine Haag, Mehdi Lembarki Kadiry, Rick van der Linden, Melonica Mohapatra, Jun Xing, Peijun Xu | mmohap7 |<https://github.com/mmohap7/Study_Group_8>        | <N/A>        |2020-11-15 |
 | 9     |Joseph Perrin, Advait Jayant, Ozlem Cuhaci, Rasul Rasulov, Lexin Xu|Rasul21 |<https://github.com/Rasul21/Group_9_Final_Project>|<N/A>     |2020-11-16 |
 | 10     | Noor Alameri, Brigita Angkasa, Lujia Huang, Martino Armanini, Marco Laube, Deniz Oezdemir | m-laube  |<https://github.com/m-laube/am10.sg10>        | <N/A>        |2020-11-11 |
@@ -33,4 +34,4 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 | 13     |Alessandro Angeletti, Chris Lewis, Johanna Jeffery, Nitya Chopra, Zichen Wang |AlessandroAngeletti |https://github.com/AlessandroAngeletti/DataVizProject|<N/A>     |13/11/2020 |
 | 14     |Sammy Chen, Marie Cordes, Filippo De Bortoli, Jason Lubner, Ruchen Shangguan |ChenSammyChen |<https://github.com/ChenSammyChen/Group14_Final_Project>|<N/A>     |2020-11-16 |
 | 15     |Xinyu Yu, Ignacio Pascale, Oana Muntean, Ishita Gupta, Max Derie|MaxDerie |<https://github.com/MaxDerie/AM10-Final>|<N/A>     |2020-11-27 |
-| 7    |Hugo-Paul Damestoy, Mehek Khanna, Renata Mariani Zanella, Jan Molich, Jinyi Wu, Tianchi Wu|renatamarianiz |<https://github.com/renatamarianiz/am10_group7>|<N/A>     |2020-11-12 |
+
